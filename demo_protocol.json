@@ -1,10 +1,10 @@
 {
   "properties": {
     "study_name": "Demo",
-    "study_id": "3ZDOGAH",
+    "study_id": "KIRSTTEST",
     "created_by": "Adrian Shatte",
     "instructions": "This is a demo study showing the features of schema",
-    "post_url": "https://getschema.app/demo_post.php",
+    "post_url": "https://github.com/kirstynvan/TestDepo/demo_post.php",
     "empty_msg": "You're all up to date",
     "banner_url": "https://getschema.app/img/schema_banner.png",
     "support_url": "https://getschema.app",
